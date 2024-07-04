@@ -3,7 +3,7 @@ name: Kaggle Badges
 on:
   schedule:
     # You can change the cron expression to suit your needs
-    - cron: "11 11 1 * *" # 11:11 AM on the 1st of every month
+    - cron: "31 16 1 * *" # 11:11 AM on the 1st of every month
   workflow_dispatch:
 
 jobs:
